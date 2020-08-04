@@ -3,6 +3,8 @@
 
 * [System Design Primer](https://github.com/donnemartin/system-design-primer) 🌟 
 
+* [Gaurav Sen System Design playlist](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX) 🌟 
+
 * [Educative.io System design blogs](https://www.educative.io/courses/grokking-the-system-design-interview/m2ygV4E81AR)
     
     * Long-Polling vs WebSockets vs Server-Sent Events
