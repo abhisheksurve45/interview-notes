@@ -10,7 +10,7 @@
 
 These 26 can be classified into 3 types:
 
-1. Creational: Provides a way to create new objects which increases the flexibility and reusability.
+1. [Creational](https://github.com/abhisheksurve45/interview-notes/tree/master/design-pattern/creational) : Provides a way to create new objects which increases the flexibility and reusability.
 
 2. Structural: Helps to structure & assemble objects and classes while making them flexible.
 
@@ -21,4 +21,20 @@ These 26 can be classified into 3 types:
 </p>
  
  
- ---
+---
+ 
+ ### References
+
+1. [Freecodecamp](https://www.freecodecamp.org/news/the-basic-design-patterns-all-developers-need-to-know/)
+
+2. [dev.to](https://dev.to/anuraghazra/design-patterns-everyday-53m0#What-are-Design-Patterns)
+
+3. [Refactoring Guru](https://refactoring.guru/design-patterns)
+
+4. [Christopher](https://www.youtube.com/watch?v=v9ejT8FO-7I)
+
+6. [Design pattern primer](https://leanpub.com/aprimerondesignpatterns/read)
+
+6. [Sourcemaking](https://sourcemaking.com/design_patterns/)
+
+---
