@@ -11,4 +11,4 @@
 | Get cli commands info 	| https://explainshell.com/, https://cheat.sh/                                                                                    	|
 | Timezones             	| https://time.is/UTC, https://time.is/IST                                                                                        	|
 | Git cheatsheet        	| https://dev.to/maxpou/git-cheat-sheet-advanced-3a17                                                                             	|
-| Markdown cheatsheets  	| https://emojipedia.org/github/, https://www.webfx.com/tools/emoji-cheat-sheet/, https://www.tablesgenerator.com/markdown_tables 	|
+| Markdown cheatsheets  	| https://emojipedia.org/github/, https://www.webfx.com/tools/emoji-cheat-sheet/, https://www.tablesgenerator.com/markdown_tables, https://guides.github.com/features/mastering-markdown/ 	|
