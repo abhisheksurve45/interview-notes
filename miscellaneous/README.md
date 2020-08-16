@@ -16,4 +16,8 @@
 
 ### Books
 
-1 . [Joshua Bloch Effective Java (2018)](https://github.com/abhisheksurve45/software-engg-notes/tree/master/miscellaneous/books/Joshua-Bloch-Effective-Java-2018.pdf)
+1. [Joshua Bloch Effective Java (2018)](https://github.com/abhisheksurve45/software-engg-notes/tree/master/miscellaneous/books/Joshua-Bloch-Effective-Java-2018.pdf)
+
+2. [Introduction to Algorithms 3rd Edition](https://github.com/abhisheksurve45/software-engg-notes/tree/master/miscellaneous/books/Introduction-to-Algorithms-3rd-Edition.pdf)
+
+3. [Clean Code](https://github.com/abhisheksurve45/software-engg-notes/tree/master/miscellaneous/books/Clean-Code-by-Robert-C-Martin.pdf)
