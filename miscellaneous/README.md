@@ -12,6 +12,7 @@
 | Timezones             	| https://time.is/UTC, https://time.is/IST                                                                                        	|
 | Git cheatsheet        	| https://dev.to/maxpou/git-cheat-sheet-advanced-3a17                                                                             	|
 | Markdown cheatsheets  	| https://emojipedia.org/github/, https://www.webfx.com/tools/emoji-cheat-sheet/, https://www.tablesgenerator.com/markdown_tables, https://guides.github.com/features/mastering-markdown/ 	|
+| Fav Cmd Line tools  	    | https://codingunicorn.dev/2019/06/29/my-favorite-command-line-utilities/ 	                                                        |
 
 
 ### Books
