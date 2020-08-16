@@ -10,7 +10,7 @@
 
 ### Types
 
-1. [Builder Design Pattern](https://github.com/abhisheksurve45/interview-notes/tree/master/design-pattern/creational/builder) - Constructs complex objects using step-by-step approach
+1. [Builder Design Pattern](https://github.com/abhisheksurve45/software-engg-notes/tree/master/design-pattern/creational/builder) - Constructs complex objects using step-by-step approach
 
 ---
  

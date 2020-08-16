@@ -17,4 +17,4 @@
     * [Leetcode](https://leetcode.com/problemset/database/)
 
 
-### Notes for [DBMS](https://github.com/abhisheksurve45/interview-notes/blob/master/dbms/dbms.pdf) 
+### Notes for [DBMS](https://github.com/abhisheksurve45/software-engg-notes/blob/master/dbms/dbms.pdf) 

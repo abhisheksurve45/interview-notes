@@ -1,1 +1,1 @@
-# Curated interview notes | <img class="center" alt="Abhishek's github visitors" src="https://visitor-badge.laobi.icu/badge?page_id=abhisheksurve45.interview-notes"/> | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/abhisheksurve45/interview-notes/master)
+# Curated interview notes | <img class="center" alt="Abhishek's github visitors" src="https://visitor-badge.laobi.icu/badge?page_id=abhisheksurve45.software-engg-notes"/> | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/abhisheksurve45/software-engg-notes/master)

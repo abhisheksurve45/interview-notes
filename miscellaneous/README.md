@@ -12,3 +12,8 @@
 | Timezones             	| https://time.is/UTC, https://time.is/IST                                                                                        	|
 | Git cheatsheet        	| https://dev.to/maxpou/git-cheat-sheet-advanced-3a17                                                                             	|
 | Markdown cheatsheets  	| https://emojipedia.org/github/, https://www.webfx.com/tools/emoji-cheat-sheet/, https://www.tablesgenerator.com/markdown_tables, https://guides.github.com/features/mastering-markdown/ 	|
+
+
+### Books
+
+1 . [Joshua Bloch Effective Java (2018)](https://github.com/abhisheksurve45/software-engg-notes/tree/master/miscellaneous/books/Joshua-Bloch-Effective-Java-2018.pdf)

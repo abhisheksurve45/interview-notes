@@ -1,4 +1,4 @@
-# Design Patterns | <img class="center" alt="Abhishek's github visitors" src="https://visitor-badge.laobi.icu/badge?page_id=abhisheksurve45.interview-notes.design-pattern"/>
+# Design Patterns | <img class="center" alt="Abhishek's github visitors" src="https://visitor-badge.laobi.icu/badge?page_id=abhisheksurve45.software-engg-notes.design-pattern"/>
 
 ### Introduction 
 
@@ -10,7 +10,7 @@
 
 These 26 can be classified into 3 types:
 
-1. [Creational](https://github.com/abhisheksurve45/interview-notes/tree/master/design-pattern/creational) : Provides a way to create new objects which increases the flexibility and reusability.
+1. [Creational](https://github.com/abhisheksurve45/software-engg-notes/tree/master/design-pattern/creational) : Provides a way to create new objects which increases the flexibility and reusability.
 
 2. Structural: Helps to structure & assemble objects and classes while making them flexible.
 
