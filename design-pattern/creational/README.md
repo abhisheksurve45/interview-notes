@@ -10,7 +10,10 @@
 
 ### Types
 
-1. [Builder Design Pattern](https://github.com/abhisheksurve45/software-engg-notes/tree/master/design-pattern/creational/builder) - Constructs complex objects using step-by-step approach
+1. [Singleton Design Pattern](https://github.com/abhisheksurve45/software-engg-notes/tree/master/design-pattern/creational/singleton) - Ensures that a class has only one instance, while providing a global access point to this instance.
+
+2. [Builder Design Pattern](https://github.com/abhisheksurve45/software-engg-notes/tree/master/design-pattern/creational/builder) - Constructs complex objects using step-by-step approach.
+
 
 ---
  
