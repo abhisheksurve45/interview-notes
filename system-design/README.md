@@ -33,3 +33,5 @@
 * [Scalability Session @media.net](https://docs.google.com/document/d/1ely_LClkYM7BOAvDma8u8D5Qgos_OnpLniuah4f7AKU)
 
 * [Netflix Data Pipeline Evolution](https://netflixtechblog.com/evolution-of-the-netflix-data-pipeline-da246ca36905)
+
+* [Scalable Web Architectures Concepts & Design](https://medium.com/distributed-knowledge/scalable-web-architectures-concepts-design-6fd372ee4541)
